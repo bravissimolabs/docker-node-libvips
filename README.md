@@ -1,2 +1,3 @@
 # docker-node-libvips
-Ubuntu 14.04 with Node.js &amp; libvips
+
+bravissimolabs/baseimage » bravissimolabs/node:v4.2.1 » bravissimolabs/node-libvips
